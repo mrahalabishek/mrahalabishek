@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rahal Abishek
-- 👀 I’m interested in Dev 
+- 👀 I’m interested in Devops 
 
 
 <!---
