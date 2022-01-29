@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋✌️, I'm Rahal Abishek</h1>
-<h3 align="center">Undergraduate | Open-Source Enthusiast |</h3>
+<h3 align="center">Undergraduate | Open-Source Enthusiast </h3>
 
 
 
