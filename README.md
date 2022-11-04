@@ -29,9 +29,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrahalabishek&show_icons=true&theme=github_dark&layout=compact" alt="mrahalabishek" /></p>
 
-<br/>
+<br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrahalabishek&show_icons=true&theme=github_dark" alt="mrahalabishek" /></p><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrahalabishek&show_icons=true&theme=github_dark" alt="mrahalabishek" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrahalabishek&show_icons=true&theme=blueberry_duo" alt="mrahalabishek" /></p>
 
 [![@mrahalabishek's Holopin board](https://holopin.me/mrahalabishek)](https://holopin.io/@mrahalabishek)
